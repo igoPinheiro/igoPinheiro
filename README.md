@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ### Hello people! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
 
+- 🎓 Bachelor's Degree in Computer Science.
 - 🔭 I'm a .Net developer
 - ⚡ I´m currently working with .Net for desktop and web software development
 - 🌱 I’m currently learning Dart and 💙 Flutter
