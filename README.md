@@ -42,4 +42,6 @@ Here are some ideas to get you started:
     <img src="./icons/dart.svg" width="50" title="Dart">
     <img src="./icons/flutter.svg" width="50" title="Flutter">
     <img src="./icons/postgresql.svg" width="50" title="PostgreSql">
+    <img src="./icons/mysql.svg" width="50" title="MySql">
+    <img src="./icons/dbeaver.svg" width="50" title="DBeaver">
  </p>
