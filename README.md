@@ -29,3 +29,17 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Dart and 💙 Flutter
 - 🌱 I’m currently learning DevOps
 - 💬 Objective: Work in the area of information technology, with analysis and / or systems development.
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <img src="./icons/javascript.png" width="50" title="JavaScript">
+    <img src="./icons/css3.svg" width="50" title="CSS3">
+    <img src="./icons/html5.svg" width="50" title="HTML5">   
+    <img src="./icons/csharp.svg" width="50" title="CSharp">
+    <img src="./icons/dotnetcore.svg" width="50" title="DotNet">   
+    <img src="./icons/git.svg" width="50" title="Git">
+    <img src="./icons/gitlab.svg" width="50" title="GitLab">
+    <img src="./icons/dart.svg" width="50" title="Dart">
+    <img src="./icons/flutter.svg" width="50" title="Flutter">
+    <img src="./icons/postgresql.svg" width="50" title="PostgreSql">
+ </p>
