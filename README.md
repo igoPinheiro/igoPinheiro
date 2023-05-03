@@ -44,4 +44,5 @@ Here are some ideas to get you started:
     <img src="./icons/postgresql.svg" width="50" title="PostgreSql">
     <img src="./icons/mysql.svg" width="50" title="MySql">
     <img src="./icons/dbeaver.svg" width="50" title="DBeaver">
+    <img src="./icons/devexpress.svg" width="50" title="DevExpress">
  </p>
