@@ -30,6 +30,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DevOps
 - 💬 Objective: Work in the area of information technology, with analysis and / or systems development.
 
+<div>
+  <a href="https://github.com/samuelsonbrito">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igoPinheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoPinheiro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <img src="./icons/javascript.png" width="50" title="JavaScript">
