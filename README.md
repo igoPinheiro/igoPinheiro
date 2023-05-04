@@ -37,6 +37,7 @@ Here are some ideas to get you started:
     <img src="./icons/html5.svg" width="50" title="HTML5">   
     <img src="./icons/csharp.svg" width="50" title="CSharp">
     <img src="./icons/dotnetcore.svg" width="50" title="DotNet">   
+     <img src="./icons/blazor.svg" width="50" title="Blazor">
     <img src="./icons/git.svg" width="50" title="Git">
     <img src="./icons/gitlab.svg" width="50" title="GitLab">
     <img src="./icons/dart.svg" width="50" title="Dart">
