@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoPinheiro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Technologies and Tools:</h3>
 <p align="left"> 
     <img src="./icons/javascript.png" width="50" title="JavaScript">
     <img src="./icons/css3.svg" width="50" title="CSS3">
