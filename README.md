@@ -53,4 +53,5 @@ Here are some ideas to get you started:
     <img src="./icons/dbeaver.svg" width="50" title="DBeaver">
     <img src="./icons/devexpress.svg" width="50" title="DevExpress">
     <img src="./icons/ps.svg" width="50" title="PhotoShop">
+    <img src="./icons/docker-logo.png" width="50" title="Docker">  
  </p>
