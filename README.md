@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 🎓 Bachelor's Degree in Computer Science. [Fucapi](https://fucapi.edu.br/)
 - 🔭 I'm a .Net developer
 - ⚡ I´m currently working with .Net for desktop and web software development
+- 🌱 I’m currently learning React JS
 - 🌱 I’m currently learning Dart and 💙 Flutter
 - 🌱 I’m currently learning DevOps
 - 💬 Objective: Work in the area of information technology, with analysis and / or systems development.
